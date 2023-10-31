@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anurag Ganvir's Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to Anurag Ganvir's Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! I'm Anurag Ganvir. I'm passionate about web development and learning backend technologies. I have experience in projects like a To-Do List and a Project Showcase System.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>To-Do List</h3>
+            <p>Developed a web-based To-Do List application using HTML, CSS, and JavaScript to help users manage their tasks efficiently.</p>
+        </div>
+        <div class="project">
+            <h3>Project Showcase System</h3>
+            <p>Created a platform for showcasing open source projects, encouraging collaboration and contributions from the community.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: your@email.com</p>
+        <p>Phone: (123) 456-7890</p>
+    </section>
+</body>
+
+</html>
